@@ -1,0 +1,6 @@
+Hello.this is a txt file for testing re-direction.
+This txt will be a stdin stream for C programe StringIO_1.c
+Let's see what will happen.
+The way we how we use it is like this:
+./StringIO_1<words.txt
+

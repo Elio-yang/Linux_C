@@ -1,0 +1,5 @@
+This is a test for re-direction out, the way
+we use it is like this:
+./StringIO_1>Re_direction_out.txt
+and begin to type.
+when we need to stop,just enter /CTRL D/
